@@ -1,0 +1,42 @@
+html {
+  margin: 0;
+  padding: 0;
+  font-size: 10px;
+}
+
+body {
+  text-align: center;
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 0%, 0%);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 5rem;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 4.2rem;
+  font-weight: 300;
+}
+
+p {
+  font-size: 2.1rem;
+  color: grey;
+}
+
+a {
+  font-size: 1.6rem;
+  color: aquamarine;
+}
+
+img {
+  display: block;
+  margin: 2.5rem auto;
+  max-width: 100%;
+}
+
+footer {
+  text-align: right;
+}
